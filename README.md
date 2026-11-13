@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'm Ruviru Randula, competitive programming student. I solve problems on platforms like Codeforces, Atcoder and LeetCode.
+I'm Ruviru Randula, competitive programming student. I solve problems on platforms like Codeforces, Atcoder and LeetCode.
 
 ## Education 
 at Maliyadeva College, Kurunegala
