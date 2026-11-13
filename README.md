@@ -13,3 +13,10 @@ at Maliyadeva College, Kurunegala
 ## Qualifications/Winnings
 - Faced NOI26 and took #13 in the National Stream.
 - Participated in NSSC this year (2026) but wouldn't be able to select for the final test.
+
+##Skills
+
+- Core Competencies: Competitive Programming, Advanced Data Structures & Algorithms, Cybersecurity, Networking
+- Languages: C++ (Primary for Competitive Programming), Rust, Python, SQL, JavaScript, HTML/CSS
+- Frameworks & Web: Svelte, NextJS, Custom Python CMS Architecture
+- Infrastructure & Tools: Linux (2+ years daily driver), Git, Bash, fish shell, VPS Deployment, DNS Management
