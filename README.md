@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-
-I'm Ruviru Randula, competitive programming student. ##
+## Who AM I?
+I'm Ruviru Randula, competitive programming student. 
 I’m currently a student at Ku/Maliyadeva College.
 My main programming language is C++ (especially for competitive programming)
 I know little bit of Python, HTML/CSS.
