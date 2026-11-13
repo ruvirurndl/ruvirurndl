@@ -1,8 +1,15 @@
 ## Hi there 👋
+I'm Ruviru Randula, competitive programming student. I solve problems on platforms like Codeforces, Atcoder and LeetCode.
 
-## Who AM I?
-I'm Ruviru Randula, competitive programming student. 
-I’m currently a student at Ku/Maliyadeva College.
+## Education 
+at Maliyadeva College, Kurunegala
+I learnt programming from // Competitive Programmers Handbook (originally) // as well as // YOUTUBE.
+
+## What I know
 My main programming language is C++ (especially for competitive programming)
-I know little bit of Python, HTML/CSS.
-I have faced NOI26 and took #13 in the National Stream and also I have faces NSSC this year (2026) but wouldn't be able to select for the final test.
+except, I know little bit of Python, HTML/CSS.
+And also I know much about Linux (2yrr+ user experience)
+
+## Qualifications/Winnings
+Faced NOI26 and took #13 in the National Stream.
+I have faced NSSC this year (2026) but wouldn't be able to select for the final test.
